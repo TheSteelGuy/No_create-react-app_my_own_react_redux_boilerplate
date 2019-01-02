@@ -1,10 +1,10 @@
-Output 8.1: Setting up your Frontend Environment Using ReactJs
+# Output 8.1: Setting up your Frontend Environment Using ReactJs
 
-#KnowYourSetup
+## KnowYourSetup
 
 Understanding how a product was setup influences your approach to building it up. To help you learn to onboard onto front-end projects quicker, identify and troubleshoot issues easier and work more efficiently, it's essential for you to know what goes on under the hood. Setting up your front end environment using ReactJS will enable you to have an easier time working with front-end frameworks, which are trendy in today's world wide web and in high demand by our partners and tech ecosystem.
 
-#Description of the tasks completed:
+## Description of the tasks completed:
 
 * A client directory, setup your front-end application with ReactJS
 * Ensured that Webpack is set up for running mundane tasks
